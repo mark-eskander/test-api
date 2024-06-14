@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'testfastt'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D1E0493F0F3846AC9716077C5E5CDFDC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_659E4C1EC33149E49BF104F075705B30 }}
